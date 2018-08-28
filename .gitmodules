@@ -2,3 +2,8 @@
 	path = OCA/crm
 	url = git@github.com:OCA/crm.git
 	branch = 11.0
+
+[submodule "OCA/sale-workflow"]
+	path = OCA/sale-workflow
+	url = git@github.com:OCA/sale-workflow.git
+	branch = 11.0
